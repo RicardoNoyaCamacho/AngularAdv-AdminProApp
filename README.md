@@ -1,5 +1,12 @@
 # Adminpro
 
+Este es el front de una aplicación real MEAN
+
+La puedes consultar en:
+```
+https://adminpro-mean-back.herokuapp.com/login
+```
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
 ## Development server
